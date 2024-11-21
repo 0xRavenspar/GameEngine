@@ -1,0 +1,23 @@
+# Ignore compiled object files
+*.o
+*.so
+*.dll
+.*/
+A1/bin/sfmlgame
+# Ignore images
+*.png
+*.jpg
+*.gif
+
+# Ignore executable files
+*.exe
+*.out
+
+# Ignore archives
+*.zip
+*.tar.gz
+*.7z
+
+# Ignore PDF documents
+*.pdf
+temp.cpp

@@ -1,0 +1,5 @@
+BasedOnStyle: Allman
+IndentWidth: 4            # Set the indentation width as desired
+ColumnLimit: 100           # Line length limit
+AllowShortIfStatementsOnASingleLine: false  # Optional: Forces all if-statements to follow Allman style strictly
+
